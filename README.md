@@ -1,5 +1,10 @@
 Pazaak 
 ======
+[![Coverage Status](https://coveralls.io/repos/github/ohmfox/pazaak/badge.svg)](https://coveralls.io/github/ohmfox/pazaak)
+
+[![Build
+Status](https://travis-ci.org/ohmfox/pazaak.svg?branch=master)](https://travis-ci.org/ohmfox/pazaak)
+
 
 A functional observable library.
 
