@@ -1,0 +1,35 @@
+{
+  "name": "pazaak",
+  "version": "0.0.1",
+  "description": "A functional observable library for JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "lint": "./node_modules/.bin/eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ohmfox/pazaak.git"
+  },
+  "keywords": [
+    "functional",
+    "observable"
+  ],
+  "author": "Conlin Durbin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ohmfox/pazaak/issues"
+  },
+  "engines": {
+    "node": ">=6.9.1"
+  },
+  "homepage": "https://github.com/ohmfox/pazaak#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.17.1",
+    "eslint-config-airbnb-base": "^11.1.1",
+    "eslint-plugin-import": "^2.2.0",
+    "mocha": "^3.2.0"
+  }
+}
